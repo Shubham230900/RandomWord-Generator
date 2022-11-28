@@ -1,0 +1,13 @@
+{
+  "manifest_version":3,
+  "name": "Random Word Generator",
+  "author":"Shubham",
+  "version":"1.0",
+  "description":"Helps to generate random word and diaplays their meaning",
+  "icons":{
+    "128":"darwinFav128.ico"
+  },
+  "action":{
+    "default_popup": "index.html"
+  }
+}
